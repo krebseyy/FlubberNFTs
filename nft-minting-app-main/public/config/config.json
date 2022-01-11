@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xff3fc8241387d9bb72241f367d6e0fe17e59cf76",
+  "SCAN_LINK": "https://polygonscan.com/tx/0xbba9ee232307f808fbcf5f265d891b2ef94a4c7142b0efada9d300a3a5313e2d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "FlubberNFTs",
+  "SYMBOL": "FB",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/flubbernfts-v2",
+  "SHOW_BACKGROUND": true
+}
